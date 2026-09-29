@@ -1,6 +1,6 @@
 # Homy Xu (许鸿铭)
 
-[**GitHub**](https://github.com/Homy-Xu) · [**CV**](./files/CV_Homy_Xu.pdf) · [**Email**](mailto:muzhihai@sjtu.edu.cn)
+[**GitHub**](https://github.com/Homy-Xu) · [**CV**](./files/CV_Hongming_Xu.pdf) · [**Email**](mailto:muzhihai@sjtu.edu.cn)
 
 **Undergraduate Student, School of Computer Science, Shanghai Jiao Tong University**  
 **Information Security · Zhiyuan Honors Program**
